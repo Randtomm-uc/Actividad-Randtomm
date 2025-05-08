@@ -44,6 +44,7 @@ else:
         
         print('Usted esta apto para ejercer el Servicio, se le considerara para el sorteo y notificara de su selección en los proximos dias.')
 
+        print('Caso de tener alguna dificultad médica, debe notificarla al cantón mas cercano a su domicilio.')
 
 
 
